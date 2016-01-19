@@ -1,6 +1,7 @@
 # GitBook Bugs
 
 1. The backtic quotes should allow unescaped angle brackets to be displayed as such.  But:
+
 ```bash
 cd /usr/local/ebi # or to the Rails root of the copy you are upgrading
 
