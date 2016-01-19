@@ -1,3 +1,8 @@
-# First Chapter
+# GitBook Bugs
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+1. The backtic quotes should allow unescaped angle brackets to be displayed as such.  But:
+```
+Here is some markup: <h1>
+```
+
+
